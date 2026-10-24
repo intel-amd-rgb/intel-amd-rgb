@@ -47,7 +47,7 @@ Problem Solving   █████████░  90%
 
 <div align="center">
 
-`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `SQL` · `MySQL` · `Git` · `GitHub` · `Linux`
+`Java` · `Python`  · `HTML` · `CSS`  · `MySQL`  · `GitHub` · `Linux`
 
 </div>
 
