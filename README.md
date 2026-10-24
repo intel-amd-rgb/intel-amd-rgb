@@ -2,7 +2,7 @@
 
 # PRANESH R
 
-**Developer · Cybersecurity Enthusiast · Builder**
+**Developer**
 
 Building practical software, modern web applications and AI-powered tools.
 
