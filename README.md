@@ -1,33 +1,109 @@
+<div align="center">
+
 # PRANESH R
 
 **Developer · Cybersecurity Enthusiast · Builder**
 
-I build practical software, web applications, and AI-powered tools with a focus on clean design, useful functionality, and continuous learning.
+Building practical software, modern web applications and AI-powered tools.
 
-### Focus
-
-- Cybersecurity & ethical hacking
-- Web and application development
-- AI-powered tools and automation
-- Software engineering and problem solving
-
-### Stack
-
-`Java` `Python` `JavaScript` `HTML` `CSS` `SQL` `MySQL` `Git` `GitHub` `Linux`
-
-### Selected Projects
-
-- **Music Streaming** — personal music streaming application
-- **Notify** — Android notification utility
-- **Scripto** — scripting-focused project
-- **Rocknotes** — lightweight notes application
-
-### Currently Learning
-
-Cybersecurity, ethical hacking, modern application development, and AI.
+</div>
 
 ---
 
-<p align="center">
-  <sub>Build. Learn. Improve.</sub>
-</p>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### ABOUT
+
+I build projects focused on useful functionality, clean interfaces and practical problem solving.
+
+Currently exploring:
+
+- Cybersecurity & Ethical Hacking
+- Web & Application Development
+- AI-powered Tools
+- Software Engineering
+
+</td>
+<td width="45%" valign="top">
+
+### CURRENT FOCUS
+
+```text
+Cybersecurity     █████████░  90%
+Development       █████████░  90%
+AI / Automation   ████████░░  80%
+Problem Solving   █████████░  90%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECH STACK
+
+<div align="center">
+
+`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `SQL` · `MySQL` · `Git` · `GitHub` · `Linux`
+
+</div>
+
+---
+
+## SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Music Streaming
+Personal music streaming application with a modern playback experience.
+
+</td>
+<td width="50%" valign="top">
+
+### Notify
+Android notification utility focused on a lightweight user experience.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Scripto
+A scripting-focused software project.
+
+</td>
+<td width="50%" valign="top">
+
+### Rocknotes
+A lightweight notes application.
+
+</td>
+</tr>
+</table>
+
+---
+
+## NOW LEARNING
+
+**Cybersecurity · Ethical Hacking · Modern App Development · AI**
+
+<details>
+<summary><b>More</b></summary>
+<br>
+
+I am continuously improving my development workflow while exploring cybersecurity and emerging AI technologies.
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>BUILD · LEARN · IMPROVE</sub>
+
+</div>
